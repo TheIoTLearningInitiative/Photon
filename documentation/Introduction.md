@@ -23,6 +23,7 @@ Introduction
   - Datasheets
   - Support 
 - [Particle Github](https://github.com/spark)
+- [Particle Hackster](https://www.hackster.io/particle)
 
 ### Non Official
 
