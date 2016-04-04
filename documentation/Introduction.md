@@ -1,7 +1,7 @@
 Introduction
 ==
 
-> 
+> An open source hardware/software platform for the Internet of Things.
 
 > Particle is a prototype-to-production platform for developing an Internet of Things product.
 
@@ -19,6 +19,7 @@ Introduction
 - [Particle Community](https://community.particle.io/)
 - [Particle Documentation](https://docs.particle.io/guide/getting-started/intro/photon/)
 - [Particle Homepage](https://github.com/spark)
+
 ## Hardware
 
 - Photon
