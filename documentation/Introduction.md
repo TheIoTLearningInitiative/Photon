@@ -5,6 +5,7 @@ Introduction
 
 - [Particle Homepage](https://www.particle.io/)
 - [Particle Store](https://store.particle.io/)
+- [Particle Community](https://community.particle.io/)
 - [Particle Documentation]()
 
 
