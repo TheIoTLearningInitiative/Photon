@@ -18,3 +18,9 @@ Introduction
 - [Particle Documentation](https://docs.particle.io/guide/getting-started/intro/photon/)
 
 
+## Hardware
+
+Photon
+P0 and P1
+Electron
+Shields
