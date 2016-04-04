@@ -1,7 +1,8 @@
 Introduction
 ==
 
-- [Particle Homepage](https://store.particle.io/)
+- [Particle Homepage](https://www.particle.io/)
+- [Particle Store](https://store.particle.io/)
 
 
 
