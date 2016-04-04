@@ -20,7 +20,7 @@ Introduction
 
 ## Hardware
 
-Photon
-P0 and P1
-Electron
-Shields
+- Photon
+- P0 and P1
+- Electron
+- Shields
