@@ -17,7 +17,6 @@ Introduction
 - [Particle Community](https://community.particle.io/)
 - [Particle Documentation](https://docs.particle.io/guide/getting-started/intro/photon/)
 
-
 ## Hardware
 
 - Photon
