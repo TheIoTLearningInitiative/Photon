@@ -18,6 +18,10 @@ Introduction
 - [Particle Store](https://store.particle.io/)
 - [Particle Community](https://community.particle.io/)
 - [Particle Documentation](https://docs.particle.io/guide/getting-started/intro/photon/)
+  - Guide
+  - Reference
+  - Datasheets
+  - Support 
 - [Particle Homepage](https://github.com/spark)
 
 ### Non Official
