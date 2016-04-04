@@ -9,6 +9,9 @@ Introduction
 > Scaling with Particle
 > > Particle's Internet of Things platform is designed to help you whether you're building your first prototype or manufacturing at scale. Here's how easy it is to scale your IoT product with Particle.
 
+> Manage your connected "fleet"
+> > Close the feedback loop. Particle's Device Management tools help you fix problems in the field, generate valuable customer insights, and improve the quality and experience of your products over time.
+
 - [Particle Homepage](https://www.particle.io/)
 - [Particle Store](https://store.particle.io/)
 - [Particle Community](https://community.particle.io/)
