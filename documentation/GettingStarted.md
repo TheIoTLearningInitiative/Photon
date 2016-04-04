@@ -1,5 +1,5 @@
 Getting Started
 ==
 
-https://learn.sparkfun.com/tutorials/photon-development-guide/all
+- [Photon Development Guide](https://learn.sparkfun.com/tutorials/photon-development-guide/all)
 
