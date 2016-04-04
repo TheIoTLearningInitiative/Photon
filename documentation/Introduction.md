@@ -12,12 +12,18 @@ Introduction
 > Manage your connected "fleet"
 > > Close the feedback loop. Particle's Device Management tools help you fix problems in the field, generate valuable customer insights, and improve the quality and experience of your products over time.
 
+### Official
+
 - [Particle Homepage](https://www.particle.io/)
 - [Particle Store](https://store.particle.io/)
 - [Particle Community](https://community.particle.io/)
 - [Particle Documentation](https://docs.particle.io/guide/getting-started/intro/photon/)
 - [Particle Homepage](https://github.com/spark)
+
+### Non Official
+
 - [Sparkfun Particle Store](https://www.sparkfun.com/categories/278)
+- [Introducing the SparkFun Ecosystem for the Particle Photon](https://www.sparkfun.com/news/1830)
 
 ## Hardware
 
