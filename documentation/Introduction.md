@@ -1,7 +1,7 @@
 Introduction
 ==
 
-> An open source hardware/software platform for the Internet of Things.
+> Particle (formerly Spark), an open source hardware/software platform for the Internet of Things.
 
 > Particle is a prototype-to-production platform for developing an Internet of Things product.
 
