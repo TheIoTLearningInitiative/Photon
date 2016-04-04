@@ -1,6 +1,8 @@
 Introduction
 ==
 
+> 
+
 > Particle is a prototype-to-production platform for developing an Internet of Things product.
 
 > Prototyping tools for the Internet of Things
@@ -16,7 +18,7 @@ Introduction
 - [Particle Store](https://store.particle.io/)
 - [Particle Community](https://community.particle.io/)
 - [Particle Documentation](https://docs.particle.io/guide/getting-started/intro/photon/)
-
+- [Particle Homepage](https://github.com/spark)
 ## Hardware
 
 - Photon
