@@ -22,7 +22,7 @@ Introduction
   - Reference
   - Datasheets
   - Support 
-- [Particle Homepage](https://github.com/spark)
+- [Particle Github](https://github.com/spark)
 
 ### Non Official
 
